@@ -1,0 +1,29 @@
+{
+  "name": "awesome-yesno",
+  "version": "1.0.0",
+  "description": "Awesome collection of yes/no pages.",
+  "scripts": {
+    "lint": "awesome-lint",
+    "update-toc": "doctoc README.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shiftgeist/awesome-yesno.git"
+  },
+  "keywords": [
+    "awesome",
+    "yes",
+    "no",
+    "spa"
+  ],
+  "author": "shiftgeist",
+  "license": "CC0 1.0 Universal",
+  "bugs": {
+    "url": "https://github.com/shiftgeist/awesome-yesno/issues"
+  },
+  "homepage": "https://github.com/shiftgeist/awesome-yesno#readme",
+  "dependencies": {
+    "awesome-lint": "^0.15.0",
+    "doctoc": "^1.4.0"
+  }
+}
